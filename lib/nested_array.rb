@@ -46,5 +46,8 @@ end
 
 def matrix_update(matrix, row, column, new_value)
    assembled_matrix[0][2] = "Tiny Ewell"
+<<<<<<< HEAD
    return assembled_matrix
+=======
+>>>>>>> 5ff4062f699a61e21cc41f99df76225bfaba3d3d
 end
